@@ -821,16 +821,16 @@ public class MainController implements Initializable, IntellitypeListener {
     }
     
     private void collapseSideBar() {
-        if (expandAnimation.statusProperty().get() == Animation.Status.STOPPED
-            && collapseAnimation.statusProperty().get() == Animation.Status.STOPPED) {
+        if (expandAnimation.statusProperty().get() == Status.STOPPED
+            && collapseAnimation.statusProperty().get() == Status.STOPPED) {
 
             collapseAnimation.play();
         }
     }
 
     private void expandSideBar() {
-        if (expandAnimation.statusProperty().get() == Animation.Status.STOPPED
-            && collapseAnimation.statusProperty().get() == Animation.Status.STOPPED) {
+        if (expandAnimation.statusProperty().get() == Status.STOPPED
+            && collapseAnimation.statusProperty().get() == Status.STOPPED) {
 
         	expandAnimation.play();
         }
