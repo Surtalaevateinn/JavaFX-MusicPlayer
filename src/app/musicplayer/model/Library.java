@@ -406,6 +406,7 @@ public final class Library {
                 albums.add(new Album(id++, entry.getKey(), artist, albumSongs));
             }
         }
+        System.out.println();
     }
 
     /**
@@ -448,6 +449,7 @@ public final class Library {
 
             artists.add(new Artist(entry.getKey(), albums));
         }
+        System.out.println();
     }
 
     public static void addPlaylist(String text) {
