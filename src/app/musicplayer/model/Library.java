@@ -23,6 +23,7 @@ import javax.xml.xpath.XPathExpression;
 import javax.xml.xpath.XPathFactory;
 
 
+import app.musicplayer.db.LibraryDao;
 import org.jaudiotagger.audio.AudioFile;
 import org.jaudiotagger.audio.AudioFileIO;
 import org.jaudiotagger.audio.AudioHeader;
@@ -58,7 +59,7 @@ public final class Library {
     private static ArrayList<Playlist> playlists;
     private static int maxProgress;
     private static ImportMusicTask<Boolean> task;
-
+    private static LibraryDao libraryDAO = new LibraryDao();
     public static void importMusic(String path, ImportMusicTask<Boolean> task) throws Exception {
 
         Library.maxProgress = 0;
@@ -341,6 +342,7 @@ public final class Library {
                     break;
                 }
             } // End while
+            libraryDAO.insertSongs(songs);
 
             reader.close();
 
