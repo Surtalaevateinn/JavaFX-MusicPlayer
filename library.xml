@@ -1,0 +1,1466 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<library>
+    <musicLibrary>
+        <path>C:\Users\Administrator\Desktop\music(album)</path>
+        <fileNum>116</fileNum>
+        <lastId>169</lastId>
+    </musicLibrary>
+    <songs>
+        
+        <song>
+            <id>1</id>
+            <title>Take On Me</title>
+            <artist>a-ha</artist>
+            <album>Take On Me (Extended Version)</album>
+            <length>220</length>
+            <trackNumber>1</trackNumber>
+            <discNumber>1</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.801</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\a-ha - Take On Me.mp3</location>
+        </song>
+        
+        <song>
+            <id>3</id>
+            <title>Skyfall£¨007£º´óÆÆÌìÄ»É±»ú µçÓ°Ö÷ÌâÇú£©</title>
+            <artist>Adele</artist>
+            <album>007£º´óÆÆÌìÄ»É±»ú µçÓ°Ö÷ÌâÇú Skyfall - Single</album>
+            <length>286</length>
+            <trackNumber>0</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.805</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Adele - Skyfall.mp3</location>
+        </song>
+        <song>
+            <id>4</id>
+            <title>“红の豚”~さくらんぼの実る顷</title>
+            <artist>Antoine Renard</artist>
+            <album>宫崎骏アニメ ハープ作品集</album>
+            <length>197</length>
+            <trackNumber>11</trackNumber>
+            <discNumber>1</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.808</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Antoine Renard - “红の豚”~さくらんぼの実る顷.mp3</location>
+        </song>
+        <song>
+            <id>5</id>
+            <title>I Swear</title>
+            <artist>BANDARI</artist>
+            <album>¼Å¾²É½ÁÖ(SILENCE)</album>
+            <length>288</length>
+            <trackNumber>3</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.811</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Bandari - i Swear - 纯音乐版.mp3</location>
+        </song>
+        <song>
+            <id>6</id>
+            <title>One day in spring</title>
+            <artist>班得瑞</artist>
+            <album>春野(ONE DAY IN SPRING)</album>
+            <length>270</length>
+            <trackNumber>0</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.813</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Bandari - One Day In Spring - 1998重制版.mp3</location>
+        </song>
+        
+        
+        <song>
+            <id>9</id>
+            <title>Hot Dog! That Made Him Mad</title>
+            <artist>Betty Hutton</artist>
+            <album>The Very Best Of</album>
+            <length>156</length>
+            <trackNumber>43</trackNumber>
+            <discNumber>1</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.820</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Betty Hutton - Hot Dog! That Made Him Mad.mp3</location>
+        </song>
+        <song>
+            <id>10</id>
+            <title>ÀäÓêÒ¹</title>
+            <artist>BEYOND</artist>
+            <album>25ÖÜÄê¾«Ñ¡</album>
+            <length>261</length>
+            <trackNumber>0</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.825</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Beyond - 冷雨夜.mp3</location>
+        </song>
+        <song>
+            <id>11</id>
+            <title>In The Summertime</title>
+            <artist>Bob Dylan</artist>
+            <album>Shot Of Love</album>
+            <length>214</length>
+            <trackNumber>0</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.827</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\bob dylan - in the summertime.mp3</location>
+        </song>
+        <song>
+            <id>12</id>
+            <title>Workingman's Blues #2</title>
+            <artist>Bob Dylan</artist>
+            <album>Modern Times</album>
+            <length>367</length>
+            <trackNumber>0</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.829</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Bob Dylan - Workingman's Blues #2.mp3</location>
+        </song>
+        <song>
+            <id>13</id>
+            <title>Fire</title>
+            <artist>Bruce Springsteen</artist>
+            <album>The Promise</album>
+            <length>248</length>
+            <trackNumber>0</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.830</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Bruce Springsteen - Fire.mp3</location>
+        </song>
+        <song>
+            <id>14</id>
+            <title>Just The Way You Are</title>
+            <artist>Bruno Mars</artist>
+            <album/>
+            <length>219</length>
+            <trackNumber>0</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.834</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Bruno Mars - Just The Way You Are.mp3</location>
+        </song>
+        <song>
+            <id>15</id>
+            <title>Ain't No Sunshine featuring Tracy Chapman</title>
+            <artist>Buddy Guy</artist>
+            <album>Bring 'Em In</album>
+            <length>204</length>
+            <trackNumber>0</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.837</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Buddy Guy、Tracy Chapman - Ain't No Sunshine.mp3</location>
+        </song>
+        <song>
+            <id>16</id>
+            <title>Top Of The World</title>
+            <artist>Carpenters</artist>
+            <album>Yesterday Once More-Greatest Hits 1969-1983</album>
+            <length>179</length>
+            <trackNumber>0</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.839</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Carpenters - Top of the World.mp3</location>
+        </song>
+        
+        
+        
+        <song>
+            <id>20</id>
+            <title>Love Sex Magic</title>
+            <artist>Ciara featuring Justin Timberlake</artist>
+            <album>Love Sex Magic</album>
+            <length>220</length>
+            <trackNumber>0</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.847</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Ciara、Justin Timberlake - Love Sex Magic.mp3</location>
+        </song>
+        <song>
+            <id>21</id>
+            <title>Comme Un Sage</title>
+            <artist>Harmonium</artist>
+            <album>L' Heptade</album>
+            <length>844</length>
+            <trackNumber>0</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.848</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Comme Un Sage.mp3</location>
+        </song>
+        
+        <song>
+            <id>23</id>
+            <title>Navy Blue</title>
+            <artist>Diane Renay</artist>
+            <album>Hard To Find 45s On CD, Vol. 2; 1961-64</album>
+            <length>151</length>
+            <trackNumber>18</trackNumber>
+            <discNumber>1</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.853</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Diane Renay - Navy Blue.mp3</location>
+        </song>
+        <song>
+            <id>24</id>
+            <title>Corn Flakes</title>
+            <artist>Dimie Cat</artist>
+            <album>ZigZag</album>
+            <length>223</length>
+            <trackNumber>8</trackNumber>
+            <discNumber>1</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.855</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Dimie Cat - Corn Flakes.mp3</location>
+        </song>
+        <song>
+            <id>25</id>
+            <title>Flower Dance</title>
+            <artist>DJ OKAWARI</artist>
+            <album>A Cup Of Coffee</album>
+            <length>269</length>
+            <trackNumber>2</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.857</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Dj Okawari - Flower Dance - 钢琴版纯音乐.mp3</location>
+        </song>
+        <song>
+            <id>26</id>
+            <title>Luv Letter</title>
+            <artist>Dj Okawari</artist>
+            <album>Mirror</album>
+            <length>270</length>
+            <trackNumber>0</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.860</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Dj Okawari - Luv Letter - 钢琴版纯音乐.mp3</location>
+        </song>
+        
+        
+        <song>
+            <id>29</id>
+            <title>Candy Street</title>
+            <artist>Elsa Kopf</artist>
+            <album>Acoustic Joys</album>
+            <length>185</length>
+            <trackNumber>0</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.865</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Elsa Kopf - Candy street.mp3</location>
+        </song>
+        
+        <song>
+            <id>31</id>
+            <title>That's All Right</title>
+            <artist>Elvis Presley</artist>
+            <album>The 50 Greatest Hits</album>
+            <length>116</length>
+            <trackNumber>0</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.868</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Elvis Presley - That's All Right.mp3</location>
+        </song>
+        <song>
+            <id>32</id>
+            <title>Auf Und Auf Voll Lebenslust</title>
+            <artist>Franzl Lang</artist>
+            <album>Aus Freude Am Leben</album>
+            <length>153</length>
+            <trackNumber>2</trackNumber>
+            <discNumber>1</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.870</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Franzl Lang - Auf Und Auf Voll Lebenslust.mp3</location>
+        </song>
+        
+        
+        <song>
+            <id>35</id>
+            <title>Danger in Loving You</title>
+            <artist>Halie Loren</artist>
+            <album>Stages</album>
+            <length>198</length>
+            <trackNumber>1</trackNumber>
+            <discNumber>1</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.875</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Halie Loren - Danger in Loving You.mp3</location>
+        </song>
+        <song>
+            <id>36</id>
+            <title>Perhaps, Perhaps, Perhaps</title>
+            <artist>Halie Loren</artist>
+            <album>They Oughta Write a Song</album>
+            <length>142</length>
+            <trackNumber>8</trackNumber>
+            <discNumber>1</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.877</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Halie Loren - Perhaps, Perhaps, Perhaps.mp3</location>
+        </song>
+        
+        
+        <song>
+            <id>39</id>
+            <title>100, 000 Raisons</title>
+            <artist>Harmonium</artist>
+            <album>Harmonium</album>
+            <length>222</length>
+            <trackNumber>5</trackNumber>
+            <discNumber>1</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.883</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Harmonium - 100, 000 Raisons.mp3</location>
+        </song>
+        <song>
+            <id>40</id>
+            <title>Attends-Moi</title>
+            <artist>Harmonium</artist>
+            <album>Harmonium</album>
+            <length>280</length>
+            <trackNumber>6</trackNumber>
+            <discNumber>1</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.889</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Harmonium - Attends-Moi.mp3</location>
+        </song>
+        <song>
+            <id>41</id>
+            <title>Aujourd Hui, Je Dis Bonjour à la Vie</title>
+            <artist>Harmonium</artist>
+            <album>Harmonium</album>
+            <length>344</length>
+            <trackNumber>3</trackNumber>
+            <discNumber>1</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.892</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Harmonium - Aujourd Hui, Je Dis Bonjour à la Vie.mp3</location>
+        </song>
+        <song>
+            <id>42</id>
+            <title>Chanson Noire</title>
+            <artist>Harmonium</artist>
+            <album>L' Heptade</album>
+            <length>489</length>
+            <trackNumber>4</trackNumber>
+            <discNumber>1</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.895</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Harmonium - Chanson Noire.mp3</location>
+        </song>
+        <song>
+            <id>43</id>
+            <title>Comme un sage</title>
+            <artist>Harmonium</artist>
+            <album>En tournée</album>
+            <length>930</length>
+            <trackNumber>8</trackNumber>
+            <discNumber>1</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.898</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Harmonium - Comme un sage.mp3</location>
+        </song>
+        <song>
+            <id>44</id>
+            <title>de la Chambre au Salon</title>
+            <artist>Harmonium</artist>
+            <album>Harmonium</album>
+            <length>343</length>
+            <trackNumber>8</trackNumber>
+            <discNumber>1</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.903</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Harmonium - de la Chambre au Salon.mp3</location>
+        </song>
+        <song>
+            <id>45</id>
+            <title>Dixie</title>
+            <artist>Harmonium</artist>
+            <album>Si On Avait Besoin d'une Cinquième Saison</album>
+            <length>206</length>
+            <trackNumber>2</trackNumber>
+            <discNumber>1</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.906</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Harmonium - Dixie.mp3</location>
+        </song>
+        <song>
+            <id>46</id>
+            <title>Pour un Instant</title>
+            <artist>Harmonium</artist>
+            <album>Harmonium</album>
+            <length>201</length>
+            <trackNumber>7</trackNumber>
+            <discNumber>1</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.910</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Harmonium - Pour un Instant.mp3</location>
+        </song>
+        <song>
+            <id>47</id>
+            <title>Un Musicien Parmi Tant d'Autres</title>
+            <artist>Harmonium</artist>
+            <album>Harmonium</album>
+            <length>425</length>
+            <trackNumber>9</trackNumber>
+            <discNumber>1</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.913</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Harmonium - Un Musicien Parmi Tant d'Autres.mp3</location>
+        </song>
+        <song>
+            <id>48</id>
+            <title>Vieilles Courroies</title>
+            <artist>Harmonium</artist>
+            <album>Harmonium</album>
+            <length>347</length>
+            <trackNumber>4</trackNumber>
+            <discNumber>1</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.917</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Harmonium - Vieilles Courroies.mp3</location>
+        </song>
+        <song>
+            <id>49</id>
+            <title>Les Feuilles Mortes</title>
+            <artist>Iggy Pop</artist>
+            <album>Preliminaires</album>
+            <length>235</length>
+            <trackNumber>0</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.919</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Iggy Pop - Les feuilLes mortes.mp3</location>
+        </song>
+        <song>
+            <id>50</id>
+            <title>Believer (Kaskade Remix)</title>
+            <artist>Imagine Dragons</artist>
+            <album>Evolve  (Deluxe Edition)</album>
+            <length>190</length>
+            <trackNumber>14</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.921</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Imagine Dragons - Believer.mp3</location>
+        </song>
+        
+        
+        
+        <song>
+            <id>54</id>
+            <title>You Fckn Did It£¨Live£©</title>
+            <artist>Jason Mraz</artist>
+            <album>Live Is a Four Letter Word</album>
+            <length>306</length>
+            <trackNumber>0</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.927</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\jason mraz - you fckn did it.mp3</location>
+        </song>
+        
+        
+        
+        
+        <song>
+            <id>59</id>
+            <title>Schnappi</title>
+            <artist>Joy Gruttmann</artist>
+            <album>Schnappi und Seine Freunde</album>
+            <length>131</length>
+            <trackNumber>1</trackNumber>
+            <discNumber>1</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.936</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Joy Gruttmann - Schnappi.mp3</location>
+        </song>
+        <song>
+            <id>60</id>
+            <title>I’ve Got It Bad</title>
+            <artist>Karen Souza</artist>
+            <album>Hotel Souza</album>
+            <length>255</length>
+            <trackNumber>8</trackNumber>
+            <discNumber>1</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.938</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Karen Souza - I’ve Got It Bad.mp3</location>
+        </song>
+        
+        
+        <song>
+            <id>63</id>
+            <title>This Old Road</title>
+            <artist>KRIS KRISTOFFERSON</artist>
+            <album>This Old Road</album>
+            <length>239</length>
+            <trackNumber>0</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.943</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Kris Kristofferson - This Old Road.mp3</location>
+        </song>
+        <song>
+            <id>64</id>
+            <title>Is A Woman</title>
+            <artist>Lambchop</artist>
+            <album>Is A Woman</album>
+            <length>278</length>
+            <trackNumber>0</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.944</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Lambchop - Is A Woman.mp3</location>
+        </song>
+        <song>
+            <id>65</id>
+            <title>Le Premier Ciel</title>
+            <artist>Harmonium</artist>
+            <album>L' Heptade</album>
+            <length>681</length>
+            <trackNumber>0</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.947</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Le Premier Ciel.mp3</location>
+        </song>
+        <song>
+            <id>66</id>
+            <title>Trouble Is A Friend</title>
+            <artist>Lenka</artist>
+            <album>Lenka</album>
+            <length>215</length>
+            <trackNumber>0</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.949</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Lenka - Trouble Is A Friend.mp3</location>
+        </song>
+        <song>
+            <id>67</id>
+            <title>One Day More</title>
+            <artist>Les Misérables Cast</artist>
+            <album>Les Misérables: The Motion Picture Soundtrack Deluxe</album>
+            <length>221</length>
+            <trackNumber>0</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.951</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Les Misérables Cast - One Day More.mp3</location>
+        </song>
+        
+        
+        
+        <song>
+            <id>71</id>
+            <title>From There To Here</title>
+            <artist>Lonestar</artist>
+            <album>Let's Be Us Again</album>
+            <length>211</length>
+            <trackNumber>0</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.957</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\lonestar - from there to here.mp3</location>
+        </song>
+        <song>
+            <id>72</id>
+            <title>Only You</title>
+            <artist>Louis Armstrong</artist>
+            <album>The Very Best Of Louis Armstrong</album>
+            <length>191</length>
+            <trackNumber>0</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.959</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Louis Armstrong - Only You.mp3</location>
+        </song>
+        <song>
+            <id>73</id>
+            <title>It's Been A Long, Long Time</title>
+            <artist>Louis Armstrong</artist>
+            <album>Hello Louis - The Hit Years (1963-1969)</album>
+            <length>139</length>
+            <trackNumber>0</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.960</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Louis Armstrong、the all-stars - It's Been A Long, Long Time.mp3</location>
+        </song>
+        <song>
+            <id>74</id>
+            <title>Moon River</title>
+            <artist>Louis Armstrong</artist>
+            <album>Hello Louis - The Hit Years (1963-1969)</album>
+            <length>177</length>
+            <trackNumber>0</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.962</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Louis Armstrong、the all-stars - Moon River.mp3</location>
+        </song>
+        <song>
+            <id>75</id>
+            <title>Lumières De Vie</title>
+            <artist>Harmonium</artist>
+            <album>L' Heptade</album>
+            <length>852</length>
+            <trackNumber>0</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.964</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Lumières De Vie.mp3</location>
+        </song>
+        <song>
+            <id>76</id>
+            <title>Sugar Lips</title>
+            <artist>Lyric Everly</artist>
+            <album>Pure Honey</album>
+            <length>114</length>
+            <trackNumber>0</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.965</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Lyric Everly - Sugar Lips.mp3</location>
+        </song>
+        <song>
+            <id>77</id>
+            <title>Bang Bang</title>
+            <artist>Macy Gray</artist>
+            <album>The Way</album>
+            <length>223</length>
+            <trackNumber>2</trackNumber>
+            <discNumber>1</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.967</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Macy Gray - Bang Bang.mp3</location>
+        </song>
+        <song>
+            <id>78</id>
+            <title>¿ËÂÞµØÑÇ¿ñÏëÇú</title>
+            <artist>Maksim</artist>
+            <album>Piano Player</album>
+            <length>215</length>
+            <trackNumber>0</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.968</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\maksim - 克罗地亚狂想曲.mp3</location>
+        </song>
+        <song>
+            <id>79</id>
+            <title>Sweet Dreams</title>
+            <artist>Marilyn Manson</artist>
+            <album>Lest We Forget (The Best Of)</album>
+            <length>293</length>
+            <trackNumber>0</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.970</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Marilyn Manson - Sweet Dreams.mp3</location>
+        </song>
+        <song>
+            <id>80</id>
+            <title>Sexual Healing</title>
+            <artist>Marvin Gaye</artist>
+            <album>#1's</album>
+            <length>238</length>
+            <trackNumber>0</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.972</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\marvin gaye - sexual healing - 单曲版.mp3</location>
+        </song>
+        <song>
+            <id>81</id>
+            <title>ピアノ×フォルテ×スキャンダル</title>
+            <artist>VOCALOID</artist>
+            <album>初音ミク マジカルミライ2013</album>
+            <length>240</length>
+            <trackNumber>10</trackNumber>
+            <discNumber>1</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.974</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\MEIKO - ピアノ×フォルテ×スキャンダル.mp3</location>
+        </song>
+        <song>
+            <id>82</id>
+            <title>ピアノ×フォルテ×スキャンダル</title>
+            <artist>OSTER project feat. MEIKO</artist>
+            <album>初音ミク「マジカルミライ 2014」オフィシャルアルバム</album>
+            <length>235</length>
+            <trackNumber>8</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.976</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\MEIKO,OSTER project - ピアノ×フォルテ×スキャンダル.mp3</location>
+        </song>
+        <song>
+            <id>83</id>
+            <title>Always On My Mind</title>
+            <artist>Michael Bublé</artist>
+            <album>Call Me Irresponsible</album>
+            <length>269</length>
+            <trackNumber>0</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.977</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Michael Bublé - Always On My Mind.mp3</location>
+        </song>
+        <song>
+            <id>84</id>
+            <title>You Belong To Me</title>
+            <artist>Michael Buble</artist>
+            <album>Dream</album>
+            <length>168</length>
+            <trackNumber>0</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.978</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Michael Bublé - You Belong to Me.mp3</location>
+        </song>
+        
+        
+        
+        <song>
+            <id>88</id>
+            <title>遊園施設 (Arranged by arai tasuku feat.momocashew from Mili)</title>
+            <artist>momocashew</artist>
+            <album>NieR:Automata Arranged &amp; Unreleased Tracks</album>
+            <length>403</length>
+            <trackNumber>3</trackNumber>
+            <discNumber>1</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.984</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\momocashew - 遊園施設 (Arranged by arai tasuku feat.momocashew from Mili).mp3</location>
+        </song>
+        <song>
+            <id>89</id>
+            <title>World's Smallest Violin</title>
+            <artist>NOIM</artist>
+            <album>World's Smallest Violin</album>
+            <length>181</length>
+            <trackNumber>1</trackNumber>
+            <discNumber>01</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.986</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\NOIM - World's Smallest Violin.mp3</location>
+        </song>
+        
+        
+        <song>
+            <id>92</id>
+            <title>Gioco d´azzardo</title>
+            <artist>Paolo Conte</artist>
+            <album>The Secret Life of Words</album>
+            <length>261</length>
+            <trackNumber>4</trackNumber>
+            <discNumber>1</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.990</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Paolo Conte - Gioco d´azzardo.mp3</location>
+        </song>
+        <song>
+            <id>93</id>
+            <title>O Gato</title>
+            <artist>Paul Desmond</artist>
+            <album>The Complete RCA Victor Recordings</album>
+            <length>276</length>
+            <trackNumber>0</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.991</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\paul desmond - O Gato.mp3</location>
+        </song>
+        <song>
+            <id>94</id>
+            <title>I'll Always Love You</title>
+            <artist>Phil Wickham</artist>
+            <album>Heaven &amp; Earth</album>
+            <length>227</length>
+            <trackNumber>0</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.993</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\phil wickham - i'll always love you.mp3</location>
+        </song>
+        <song>
+            <id>95</id>
+            <title>Money [Early Mix 1972]</title>
+            <artist>Pink Floyd</artist>
+            <album>The Dark Side Of The Moon - Immersion Box Set</album>
+            <length>412</length>
+            <trackNumber>0</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.994</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Pink Floyd - Money (1972 Early Mix).mp3</location>
+        </song>
+        <song>
+            <id>96</id>
+            <title>Bitty Boppy Betty</title>
+            <artist>Pink Martini</artist>
+            <album>Splendor in the Grass</album>
+            <length>163</length>
+            <trackNumber>10</trackNumber>
+            <discNumber>1</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.995</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Pink Martini - Bitty Boppy Betty.mp3</location>
+        </song>
+        <song>
+            <id>97</id>
+            <title>Donde Estas, Yolanda?</title>
+            <artist>Pink Martini</artist>
+            <album>Sympathique</album>
+            <length>205</length>
+            <trackNumber>6</trackNumber>
+            <discNumber>1</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.997</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Pink Martini - Donde Estas, Yolanda？.mp3</location>
+        </song>
+        <song>
+            <id>98</id>
+            <title>Glory Box</title>
+            <artist>Portishead</artist>
+            <album>Dummy</album>
+            <length>305</length>
+            <trackNumber>0</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.998</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Portishead - Glory Box.mp3</location>
+        </song>
+        <song>
+            <id>99</id>
+            <title>You're My Best Friend</title>
+            <artist>Queen</artist>
+            <album>The Platinum Collection</album>
+            <length>170</length>
+            <trackNumber>0</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:53.999</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Queen - You're My Best Friend.mp3</location>
+        </song>
+        <song>
+            <id>100</id>
+            <title>なんでもないや (movie ver.)</title>
+            <artist>RADWIMPS</artist>
+            <album>君の名は。</album>
+            <length>344</length>
+            <trackNumber>27</trackNumber>
+            <discNumber>1</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:54.001</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\RADWIMPS - なんでもないや (movie ver.).mp3</location>
+        </song>
+        
+        <song>
+            <id>102</id>
+            <title>Master Of The House</title>
+            <artist>Les Misérables Cast</artist>
+            <album>Les Misérables: The Motion Picture Soundtrack Deluxe</album>
+            <length>288</length>
+            <trackNumber>0</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:54.005</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Sacha Baron Cohen - Master Of The House.mp3</location>
+        </song>
+        <song>
+            <id>103</id>
+            <title>たこルカ★マグロフィーバー</title>
+            <artist>samfree</artist>
+            <album>Story</album>
+            <length>131</length>
+            <trackNumber>6</trackNumber>
+            <discNumber>1</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:54.008</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\samfree,巡音ルカ - たこルカ★マグロフィーバー.mp3</location>
+        </song>
+        
+        <song>
+            <id>105</id>
+            <title>Que Reste-T-Il De Nos Amours ?</title>
+            <artist>Stacey Kent</artist>
+            <album>The Boy Next Door</album>
+            <length>177</length>
+            <trackNumber>4</trackNumber>
+            <discNumber>1</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:54.013</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Stacey Kent - Que Reste-T-Il De Nos Amours ？.mp3</location>
+        </song>
+        <song>
+            <id>106</id>
+            <title>Perhaps, Perhaps, Perhaps</title>
+            <artist>Stéphane Pompougnac</artist>
+            <album>Hôtel Costes, Vol. 14</album>
+            <length>133</length>
+            <trackNumber>13</trackNumber>
+            <discNumber>1</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:54.015</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Stéphane Pompougnac - Perhaps, Perhaps, Perhaps.mp3</location>
+        </song>
+        
+        <song>
+            <id>108</id>
+            <title>Stepping On The Rainy Street(</title>
+            <artist>The Daydream</artist>
+            <album/>
+            <length>101</length>
+            <trackNumber>0</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:54.019</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\The Daydream - Stepping On The Rainy Street - 纯音乐版.mp3</location>
+        </song>
+        
+        <song>
+            <id>110</id>
+            <title>Istanbul (LP Version)</title>
+            <artist>THEY MIGHT BE GIANTS</artist>
+            <album>Flood</album>
+            <length>153</length>
+            <trackNumber>0</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:54.021</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\they might be giants - Istanbul.mp3</location>
+        </song>
+        
+        <song>
+            <id>112</id>
+            <title>One</title>
+            <artist>Metallica</artist>
+            <album>And Justice For All</album>
+            <length>446</length>
+            <trackNumber>0</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:54.024</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Various Artists - One.mp3</location>
+        </song>
+        
+        <song>
+            <id>114</id>
+            <title>Vert</title>
+            <artist>Harmonium</artist>
+            <album>Les Cinq Saisons</album>
+            <length>334</length>
+            <trackNumber>0</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:54.028</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\Vert-Harmonium-3554516.mp3</location>
+        </song>
+        <song>
+            <id>115</id>
+            <title>You Raise Me Up</title>
+            <artist>WestLife</artist>
+            <album>iTunes Essentials</album>
+            <length>241</length>
+            <trackNumber>0</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:54.030</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\westlife - you raise me up.mp3</location>
+        </song>
+        
+        <song>
+            <id>117</id>
+            <title>START:DASH!!</title>
+            <artist>u´s</artist>
+            <album>No brand girls/START:DASH!!</album>
+            <length>259</length>
+            <trackNumber>0</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:54.033</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\μ's - Start Dash.mp3</location>
+        </song>
+        
+        <song>
+            <id>119</id>
+            <title>“となりのトトロ”~となりのトトロ</title>
+            <artist>久石譲</artist>
+            <album>宫崎骏アニメ ハープ作品集</album>
+            <length>274</length>
+            <trackNumber>8</trackNumber>
+            <discNumber>1</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:54.036</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\久石譲 - “となりのトトロ”~となりのトトロ.mp3</location>
+        </song>
+        <song>
+            <id>120</id>
+            <title>“もののけ姫”~もののけ姫</title>
+            <artist>久石譲</artist>
+            <album>宫崎骏アニメ ハープ作品集</album>
+            <length>247</length>
+            <trackNumber>6</trackNumber>
+            <discNumber>1</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:54.046</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\久石譲 - “もののけ姫”~もののけ姫.mp3</location>
+        </song>
+        <song>
+            <id>121</id>
+            <title>“ハウルの动く城”~人生のメリーゴーランド</title>
+            <artist>久石譲</artist>
+            <album>宫崎骏アニメ ハープ作品集</album>
+            <length>235</length>
+            <trackNumber>4</trackNumber>
+            <discNumber>1</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:54.049</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\久石譲 - “ハウルの动く城”~人生のメリーゴーランド.mp3</location>
+        </song>
+        <song>
+            <id>122</id>
+            <title>“千と千寻の神隠し”~ふたたび</title>
+            <artist>久石譲</artist>
+            <album>宫崎骏アニメ ハープ作品集</album>
+            <length>257</length>
+            <trackNumber>2</trackNumber>
+            <discNumber>1</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:54.052</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\久石譲 - “千と千寻の神隠し”~ふたたび.mp3</location>
+        </song>
+        <song>
+            <id>123</id>
+            <title>“天空の城ラピュタ”~君をのせて</title>
+            <artist>久石譲</artist>
+            <album>宫崎骏アニメ ハープ作品集</album>
+            <length>253</length>
+            <trackNumber>7</trackNumber>
+            <discNumber>1</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:54.056</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\久石譲 - “天空の城ラピュタ”~君をのせて.mp3</location>
+        </song>
+        <song>
+            <id>124</id>
+            <title>狂気</title>
+            <artist>久石譲</artist>
+            <album>紅の豚 サウンドトラック</album>
+            <length>159</length>
+            <trackNumber>14</trackNumber>
+            <discNumber>1</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:54.058</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\久石譲 - 狂気.mp3</location>
+        </song>
+        
+        <song>
+            <id>126</id>
+            <title>Elgar, Salut D'amour</title>
+            <artist>何崇志</artist>
+            <album>麦兜菠萝油王子 电影原声大碟</album>
+            <length>128</length>
+            <trackNumber>17</trackNumber>
+            <discNumber>1</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:54.064</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\何崇志 - Elgar, Salut D'amour.mp3</location>
+        </song>
+        <song>
+            <id>127</id>
+            <title>It Is My Honor To Introduce To You, Mr. Mcdull!</title>
+            <artist>何崇志</artist>
+            <album>麦兜菠萝油王子 电影原声大碟</album>
+            <length>29</length>
+            <trackNumber>18</trackNumber>
+            <discNumber>1</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:54.067</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\何崇志 - It Is My Honor To Introduce To You, Mr. Mcdull!.mp3</location>
+        </song>
+        <song>
+            <id>128</id>
+            <title>J.S. Bach,大提琴无伴奏组曲,No.3 In C,Bourrees I,Ii - instrumental</title>
+            <artist>何崇志</artist>
+            <album>麦兜菠萝油王子 电影原声大碟</album>
+            <length>203</length>
+            <trackNumber>19</trackNumber>
+            <discNumber>1</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:54.095</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\何崇志 - J.S. Bach,大提琴无伴奏组曲,No.3 In C,Bourrees I,Ii - instrumental.mp3</location>
+        </song>
+        <song>
+            <id>129</id>
+            <title>Mahler， 第一交响乐第三乐章</title>
+            <artist>何崇志</artist>
+            <album>麦兜菠萝油王子 电影原声大碟</album>
+            <length>314</length>
+            <trackNumber>14</trackNumber>
+            <discNumber>1</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:54.099</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\何崇志 - Mahler， 第一交响乐第三乐章.mp3</location>
+        </song>
+        <song>
+            <id>130</id>
+            <title>Mozart Piano Sonata K.331 Andante Grazioso</title>
+            <artist>何崇志</artist>
+            <album>麦兜故事 电影原声大碟</album>
+            <length>186</length>
+            <trackNumber>6</trackNumber>
+            <discNumber>1</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:54.100</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\何崇志 - Mozart Piano Sonata K.331 Andante Grazioso.mp3</location>
+        </song>
+        <song>
+            <id>131</id>
+            <title>“就得我一个，留响宜家.”</title>
+            <artist>何崇志</artist>
+            <album>麦兜菠萝油王子 电影原声大碟</album>
+            <length>111</length>
+            <trackNumber>15</trackNumber>
+            <discNumber>1</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:54.103</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\何崇志 - “就得我一个，留响宜家.”.mp3</location>
+        </song>
+        <song>
+            <id>132</id>
+            <title>“等我慢慢讲吓…”</title>
+            <artist>何崇志</artist>
+            <album>麦兜菠萝油王子 电影原声大碟</album>
+            <length>80</length>
+            <trackNumber>3</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:54.105</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\何崇志 - “等我慢慢讲吓…”.mp3</location>
+        </song>
+        <song>
+            <id>133</id>
+            <title>一闪一闪小星星 (Mozart, C 大调变奏曲 K256)</title>
+            <artist>何崇志</artist>
+            <album>麦兜菠萝油王子 电影原声大碟</album>
+            <length>242</length>
+            <trackNumber>11</trackNumber>
+            <discNumber>1</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:54.108</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\何崇志 - 一闪一闪小星星 (Mozart, C 大调变奏曲 K256).mp3</location>
+        </song>
+        <song>
+            <id>134</id>
+            <title>教我如何去小便(Bonus Track)</title>
+            <artist>何崇志</artist>
+            <album>麦兜菠萝油王子 电影原声大碟</album>
+            <length>131</length>
+            <trackNumber>22</trackNumber>
+            <discNumber>1</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:54.111</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\何崇志 - 教我如何去小便(Bonus Track).mp3</location>
+        </song>
+        <song>
+            <id>135</id>
+            <title>春田花花幼稚园校歌</title>
+            <artist>何崇志</artist>
+            <album>麦兜菠萝油王子 电影原声大碟</album>
+            <length>49</length>
+            <trackNumber>2</trackNumber>
+            <discNumber>1</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:54.113</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\何崇志 - 春田花花幼稚园校歌.mp3</location>
+        </song>
+        
+        
+        <song>
+            <id>138</id>
+            <title>さくらんぼの実る頃</title>
+            <artist>加藤登紀子</artist>
+            <album>紅の豚 サウンドトラック</album>
+            <length>174</length>
+            <trackNumber>22</trackNumber>
+            <discNumber>1</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:54.118</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\加藤登紀子 - さくらんぼの実る頃.mp3</location>
+        </song>
+        <song>
+            <id>139</id>
+            <title>時には昔の話を</title>
+            <artist>加藤登紀子</artist>
+            <album>紅の豚 サウンドトラック</album>
+            <length>236</length>
+            <trackNumber>23</trackNumber>
+            <discNumber>1</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:54.122</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\加藤登紀子 - 時には昔の話を.mp3</location>
+        </song>
+        <song>
+            <id>140</id>
+            <title>夜的钢琴曲(五)</title>
+            <artist>石进</artist>
+            <album>夜的钢琴曲-石进原创钢琴曲14首</album>
+            <length>220</length>
+            <trackNumber>0</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:54.124</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\夜的钢琴曲 - 五.mp3</location>
+        </song>
+        <song>
+            <id>141</id>
+            <title>Only Love</title>
+            <artist>岚</artist>
+            <album>All the BEST! 1999-2009</album>
+            <length>274</length>
+            <trackNumber>0</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:54.125</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\嵐 - ONLY LOVE.mp3</location>
+        </song>
+        
+        <song>
+            <id>143</id>
+            <title>ナイスな心意気</title>
+            <artist>岚</artist>
+            <album>All the BEST! 1999-2009</album>
+            <length>239</length>
+            <trackNumber>0</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:54.129</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\嵐 - ナイスな心意気.mp3</location>
+        </song>
+        <song>
+            <id>144</id>
+            <title>夏の名前</title>
+            <artist>岚</artist>
+            <album>All the BEST! 1999-2009</album>
+            <length>274</length>
+            <trackNumber>0</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:54.131</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\嵐 - 夏の名前.mp3</location>
+        </song>
+        
+        <song>
+            <id>146</id>
+            <title>I'm Alive</title>
+            <artist>Celine Dion</artist>
+            <album>A New Day Has Come</album>
+            <length>210</length>
+            <trackNumber>6</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:54.133</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\席琳迪翁 - 经典.mp3</location>
+        </song>
+        <song>
+            <id>147</id>
+            <title>Влюбленная девочка – Я знаю ...</title>
+            <artist>幻想呆呆</artist>
+            <album>超甜的一首俄语歌（я знаю твой телефон）</album>
+            <length>148</length>
+            <trackNumber>0</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:54.135</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\幻想呆呆 - Влюбленная девочка – Я знаю ....mp3</location>
+        </song>
+        <song>
+            <id>148</id>
+            <title>Грех – Я знаю твой телефон, но...</title>
+            <artist>幻想呆呆</artist>
+            <album>超甜的一首俄语歌（я знаю твой телефон）</album>
+            <length>222</length>
+            <trackNumber>0</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:54.137</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\幻想呆呆 - Грех – Я знаю твой телефон, но....mp3</location>
+        </song>
+        
+        <song>
+            <id>150</id>
+            <title>La Vie En Rose（1954/米 映画「丽しのサブリナ」より）</title>
+            <artist>手嶌葵</artist>
+            <album>La Vie En Rose ~I Love Cinemas~第2弾~</album>
+            <length>231</length>
+            <trackNumber>0</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:54.140</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\手嶌葵 - La Vie En Rose.mp3</location>
+        </song>
+        <song>
+            <id>151</id>
+            <title>Tokyo Blues</title>
+            <artist>斉藤和義</artist>
+            <album>Aoi Sora no Shita</album>
+            <length>182</length>
+            <trackNumber>0</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:54.141</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\斉藤和義 - Tokyo Blues.mp3</location>
+        </song>
+        
+        
+        <song>
+            <id>154</id>
+            <title>思乡曲</title>
+            <artist>理查德·克莱德曼</artist>
+            <album>钢琴轻音乐曲选</album>
+            <length>179</length>
+            <trackNumber>0</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:54.145</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\理查德克莱德曼 - 思乡曲.mp3</location>
+        </song>
+        <song>
+            <id>155</id>
+            <title>纯钢琴曲世界名曲</title>
+            <artist>理查德·克莱德曼</artist>
+            <album/>
+            <length>203</length>
+            <trackNumber>0</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:54.146</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\理查德克莱德曼、钢琴曲 - 世界名曲.mp3</location>
+        </song>
+        <song>
+            <id>156</id>
+            <title>交响曲 第9番“新世界より”第4楽章</title>
+            <artist>福田考代</artist>
+            <album>ASURA'S WRATH Original Soundtrack</album>
+            <length>234</length>
+            <trackNumber>0</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:54.147</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\福田考代 - 交响曲 第9番“新世界より”第4楽章.mp3</location>
+        </song>
+        <song>
+            <id>157</id>
+            <title>“平成狸合戦ぽんぽこ”~いつでも谁かが</title>
+            <artist>紅龍</artist>
+            <album>宫崎骏アニメ ハープ作品集</album>
+            <length>272</length>
+            <trackNumber>10</trackNumber>
+            <discNumber>1</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:54.148</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\紅龍 - “平成狸合戦ぽんぽこ”~いつでも谁かが.mp3</location>
+        </song>
+        
+        
+        <song>
+            <id>160</id>
+            <title>スターダストクルセイダース</title>
+            <artist>菅野祐悟</artist>
+            <album>ジョジョの奇妙な冒険 スターダストクルセイダース O.S.T[Departure]</album>
+            <length>307</length>
+            <trackNumber>23</trackNumber>
+            <discNumber>1</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:54.153</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\菅野祐悟 - スターダストクルセイダース.mp3</location>
+        </song>
+        <song>
+            <id>161</id>
+            <title>ダイヤモンドは砕けない～メインテーマ～</title>
+            <artist>菅野祐悟</artist>
+            <album>ジョジョの奇妙な冒険 ダイヤモンドは砕けない オリジナルサウンドトラック Vol.1～Good Morning Morioh Cho～</album>
+            <length>247</length>
+            <trackNumber>1</trackNumber>
+            <discNumber>1</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:54.154</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\菅野祐悟 - ダイヤモンドは砕けない～メインテーマ～.mp3</location>
+        </song>
+        <song>
+            <id>162</id>
+            <title>杜王町Radio</title>
+            <artist>菅野祐悟</artist>
+            <album>ジョジョの奇妙な冒険 ダイヤモンドは砕けない オリジナルサウンドトラック Vol.1～Good Morning Morioh Cho～</album>
+            <length>47</length>
+            <trackNumber>22</trackNumber>
+            <discNumber>1</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:54.158</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\菅野祐悟 - 杜王町Radio.mp3</location>
+        </song>
+        
+        <song>
+            <id>164</id>
+            <title>G大调小步舞曲</title>
+            <artist>贝多芬</artist>
+            <album>发烧古典珍藏 世界著名华尔兹</album>
+            <length>195</length>
+            <trackNumber>14</trackNumber>
+            <discNumber>1</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:54.160</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\贝多芬 - G大调小步舞曲.mp3</location>
+        </song>
+        
+        <song>
+            <id>166</id>
+            <title>乾杯</title>
+            <artist>長渕剛</artist>
+            <album>Tsuyoshi Nagabuchi All Time Best 2014 傷つき打ちのめされても</album>
+            <length>333</length>
+            <trackNumber>4</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:54.163</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\長渕剛 - 乾杯.mp3</location>
+        </song>
+        
+        
+        <song>
+            <id>169</id>
+            <title>红玫瑰</title>
+            <artist>陈奕迅</artist>
+            <album>1997-2007 跨世纪国语精选 CD2</album>
+            <length>240</length>
+            <trackNumber>0</trackNumber>
+            <discNumber>0</discNumber>
+            <playCount>0</playCount>
+            <playDate>2025-01-15T19:25:54.168</playDate>
+            <location>C:\Users\Administrator\Desktop\music(album)\陈奕迅 - 红玫瑰.mp3</location>
+        </song>
+    </songs>
+    <playlists/>
+    <nowPlayingList>
+        <id>101</id>
+        <id>109</id>
+        <id>86</id>
+        <id>0</id>
+        <id>107</id>
+        <id>85</id>
+        <id>7</id>
+    </nowPlayingList>
+</library>
