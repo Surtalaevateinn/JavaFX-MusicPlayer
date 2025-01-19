@@ -81,7 +81,7 @@ public class MainController implements Initializable, IntellitypeListener {
     @FXML private Pane loopButton;
     @FXML private Pane shuffleButton;
     @FXML private HBox controlBox;
-
+	// 搜索输入框，用于用户输入搜索内容
 	@FXML private TextField searchBox;
 
     @Override
@@ -260,27 +260,33 @@ public class MainController implements Initializable, IntellitypeListener {
     		ex.printStackTrace();
     	}
     }
-
+	/**
+	 * 创建搜索弹窗。
+	 * 该弹窗用于动态显示搜索结果，并通过样式和事件处理提升用户体验。
+	 */
 	private void createSearchPopup() {
 		try {
-
+			// 获取主窗口
 			Stage stage = MusicPlayer.getStage();
+
+			// 创建搜索结果的容器
 			VBox view = new VBox();
-            view.getStylesheets().add(Resources.CSS + "MainStyle.css");
-            view.getStyleClass().add("searchPopup");
+			view.getStylesheets().add(Resources.CSS + "MainStyle.css"); // 设置样式
+			view.getStyleClass().add("searchPopup");
+
+			// 初始化弹窗并设置属性
 			Stage popup = new Stage();
 			popup.setScene(new Scene(view));
-			popup.initStyle(StageStyle.UNDECORATED);
-			popup.initOwner(stage);
-			searchHideAnimation.setOnFinished(x -> popup.hide());
+			popup.initStyle(StageStyle.UNDECORATED); // 设置无边框样式
+			popup.initOwner(stage); // 将主窗口设为父窗口
+			searchHideAnimation.setOnFinished(x -> popup.hide()); // 设置隐藏动画结束后的行为
 
+			// 初始化弹窗的显示状态
 			popup.show();
 			popup.hide();
-			searchPopup = popup;
-
+			searchPopup = popup; // 将弹窗引用保存到类字段中
 		} catch (Exception ex) {
-
-			ex.printStackTrace();
+			ex.printStackTrace(); // 打印异常信息以便调试
 		}
 	}
     
@@ -881,122 +887,125 @@ public class MainController implements Initializable, IntellitypeListener {
     	}
     }
 
-    public void showSearchResults(SearchResult result) {
-        VBox root = (VBox) searchPopup.getScene().getRoot();
-        ObservableList<Node> list = root.getChildren();
-        list.clear();
-        if (result.getArtistResults().size() > 0) {
-            Label header = new Label("Artists");
-            list.add(header);
-            VBox.setMargin(header, new Insets(10, 10, 10, 10));
-            result.getArtistResults().forEach(artist -> {
-                HBox cell = new HBox();
-                cell.setAlignment(Pos.CENTER_LEFT);
-                cell.setPrefWidth(226);
-                cell.setPrefHeight(50);
-                ImageView image = new ImageView();
-                image.setFitHeight(40);
-                image.setFitWidth(40);
-                image.setImage(artist.getArtistImage());
-                Label label = new Label(artist.getTitle());
-                label.setTextOverrun(OverrunStyle.CLIP);
-                label.getStyleClass().setAll("searchLabel");
-                cell.getChildren().addAll(image, label);
-                HBox.setMargin(image, new Insets(5, 5, 5, 5));
-                HBox.setMargin(label, new Insets(10, 10, 10, 5));
-                cell.getStyleClass().add("searchResult");
-                cell.setOnMouseClicked(event -> {
-                    loadView("ArtistsMain");
-                    ArtistsMainController artistsMainController = (ArtistsMainController) loadView("ArtistsMain");
-                    artistsMainController.selectArtist(artist);
-                    searchBox.setText("");
-                    sideBar.requestFocus();
-                });
-                list.add(cell);
-            });
-            Separator separator = new Separator();
-            separator.setPrefWidth(206);
-            list.add(separator);
-            VBox.setMargin(separator, new Insets(10, 10, 0, 10));
-        }
-        if (result.getAlbumResults().size() > 0) {
-            Label header = new Label("Albums");
-            list.add(header);
-            VBox.setMargin(header, new Insets(10, 10, 10, 10));
-            result.getAlbumResults().forEach(album -> {
-                HBox cell = new HBox();
-                cell.setAlignment(Pos.CENTER_LEFT);
-                cell.setPrefWidth(226);
-                cell.setPrefHeight(50);
-                ImageView image = new ImageView();
-                image.setFitHeight(40);
-                image.setFitWidth(40);
-                image.setImage(album.getArtwork());
-                Label label = new Label(album.getTitle());
-                label.setTextOverrun(OverrunStyle.CLIP);
-                label.getStyleClass().setAll("searchLabel");
-                cell.getChildren().addAll(image, label);
-                HBox.setMargin(image, new Insets(5, 5, 5, 5));
-                HBox.setMargin(label, new Insets(10, 10, 10, 5));
-                cell.getStyleClass().add("searchResult");
-                cell.setOnMouseClicked(event -> {
-                    loadView("ArtistsMain");
-                    Artist artist = Library.getArtist(album.getArtist());
-                    ArtistsMainController artistsMainController = (ArtistsMainController) loadView("ArtistsMain");
-                    artistsMainController.selectArtist(artist);
-                    artistsMainController.selectAlbum(album);
-                    searchBox.setText("");
-                    sideBar.requestFocus();
-                });
-                list.add(cell);
-            });
-            Separator separator = new Separator();
-            separator.setPrefWidth(206);
-            list.add(separator);
-            VBox.setMargin(separator, new Insets(10, 10, 0, 10));
-        }
-        if (result.getSongResults().size() > 0) {
-            Label header = new Label("Songs");
-            list.add(header);
-            VBox.setMargin(header, new Insets(10, 10, 10, 10));
-            result.getSongResults().forEach(song -> {
-                HBox cell = new HBox();
-                cell.setAlignment(Pos.CENTER_LEFT);
-                cell.setPrefWidth(226);
-                cell.setPrefHeight(50);
-                Label label = new Label(song.getTitle());
-                label.setTextOverrun(OverrunStyle.CLIP);
-                label.getStyleClass().setAll("searchLabel");
-                cell.getChildren().add(label);
-                HBox.setMargin(label, new Insets(10, 10, 10, 10));
-                cell.getStyleClass().add("searchResult");
-                cell.setOnMouseClicked(event -> {
-                    loadView("ArtistsMain");
-                    Artist artist = Library.getArtist(song.getArtist());
-                    Album album = artist.getAlbums().stream().filter(x -> x.getTitle().equals(song.getAlbum())).findFirst().get();
-                    ArtistsMainController artistsMainController = (ArtistsMainController) loadView("ArtistsMain");
-                    artistsMainController.selectArtist(artist);
-                    artistsMainController.selectAlbum(album);
-                    artistsMainController.selectSong(song);
-                    searchBox.setText("");
-                    sideBar.requestFocus();
-                });
-                list.add(cell);
-            });
-        }
-        if (list.size() == 0) {
-            Label label = new Label("No Results");
-            list.add(label);
-            VBox.setMargin(label, new Insets(10, 10, 10, 10));
-        }
-        if (!searchPopup.isShowing()) {
-            Stage stage = MusicPlayer.getStage();
-            searchPopup.setX(stage.getX() + 18);
-            searchPopup.setY(stage.getY() + 80);
-            searchPopup.show();
-            searchShowAnimation.play();
-        }
-    }
+	/**
+	 * 显示搜索结果。
+	 * 根据用户输入的搜索内容，动态加载和显示相关结果。
+	 *
+	 * @param result 搜索结果对象，包含艺术家、专辑和歌曲的匹配项
+	 */
+	public void showSearchResults(SearchResult result) {
+		VBox root = (VBox) searchPopup.getScene().getRoot(); // 获取弹窗的根节点
+		ObservableList<Node> list = root.getChildren(); // 获取搜索结果显示的子节点
+		list.clear(); // 清空以前的搜索结果
+
+		// 如果有艺术家匹配结果，添加到搜索结果中
+		if (result.getArtistResults().size() > 0) {
+			Label header = new Label("Artists"); // 添加标题
+			list.add(header);
+			VBox.setMargin(header, new Insets(10, 10, 10, 10)); // 设置标题的边距
+
+			// 遍历每个艺术家并创建对应的结果显示项
+			result.getArtistResults().forEach(artist -> {
+				HBox cell = new HBox();
+				cell.setAlignment(Pos.CENTER_LEFT); // 居中左对齐
+				cell.setPrefWidth(226); // 设置宽度
+				cell.setPrefHeight(50); // 设置高度
+
+				// 添加艺术家的图片
+				ImageView image = new ImageView();
+				image.setFitHeight(40);
+				image.setFitWidth(40);
+				image.setImage(artist.getArtistImage()); // 加载艺术家图片
+
+				// 添加艺术家的名称
+				Label label = new Label(artist.getTitle());
+				label.setTextOverrun(OverrunStyle.CLIP); // 处理文本溢出的样式
+				label.getStyleClass().setAll("searchLabel");
+
+				// 将图片和名称添加到结果项
+				cell.getChildren().addAll(image, label);
+				HBox.setMargin(image, new Insets(5, 5, 5, 5)); // 设置图片的边距
+				HBox.setMargin(label, new Insets(10, 10, 10, 5)); // 设置名称的边距
+
+				// 为结果项添加点击事件，加载对应的艺术家视图
+				cell.setOnMouseClicked(event -> {
+					loadView("ArtistsMain");
+					ArtistsMainController artistsMainController = (ArtistsMainController) loadView("ArtistsMain");
+					artistsMainController.selectArtist(artist);
+					searchBox.setText(""); // 清空搜索框内容
+					sideBar.requestFocus(); // 让侧边栏获取焦点
+				});
+
+				list.add(cell); // 将结果项添加到结果列表中
+			});
+
+			// 添加分隔符
+			Separator separator = new Separator();
+			separator.setPrefWidth(206);
+			list.add(separator);
+			VBox.setMargin(separator, new Insets(10, 10, 0, 10)); // 设置分隔符的边距
+		}
+
+		// 处理专辑结果（与艺术家类似）
+		if (result.getAlbumResults().size() > 0) {
+			Label header = new Label("Albums");
+			list.add(header);
+			VBox.setMargin(header, new Insets(10, 10, 10, 10));
+
+			result.getAlbumResults().forEach(album -> {
+				HBox cell = new HBox();
+				cell.setAlignment(Pos.CENTER_LEFT);
+				cell.setPrefWidth(226);
+				cell.setPrefHeight(50);
+
+				ImageView image = new ImageView();
+				image.setFitHeight(40);
+				image.setFitWidth(40);
+				image.setImage(album.getArtwork());
+
+				Label label = new Label(album.getTitle());
+				label.setTextOverrun(OverrunStyle.CLIP);
+				label.getStyleClass().setAll("searchLabel");
+
+				cell.getChildren().addAll(image, label);
+				HBox.setMargin(image, new Insets(5, 5, 5, 5));
+				HBox.setMargin(label, new Insets(10, 10, 10, 5));
+
+				cell.setOnMouseClicked(event -> {
+					loadView("ArtistsMain");
+					Artist artist = Library.getArtist(album.getArtist());
+					ArtistsMainController artistsMainController = (ArtistsMainController) loadView("ArtistsMain");
+					artistsMainController.selectArtist(artist);
+					artistsMainController.selectAlbum(album);
+					searchBox.setText("");
+					sideBar.requestFocus();
+				});
+
+				list.add(cell);
+			});
+
+			Separator separator = new Separator();
+			separator.setPrefWidth(206);
+			list.add(separator);
+			VBox.setMargin(separator, new Insets(10, 10, 0, 10));
+		}
+
+		// 如果结果为空，则显示“无结果”提示
+		if (list.size() == 0) {
+			Label label = new Label("No Results");
+			list.add(label);
+			VBox.setMargin(label, new Insets(10, 10, 10, 10));
+		}
+
+		// 如果弹窗尚未显示，则显示弹窗
+		if (!searchPopup.isShowing()) {
+			Stage stage = MusicPlayer.getStage();
+			searchPopup.setX(stage.getX() + 18); // 设置弹窗的 X 坐标
+			searchPopup.setY(stage.getY() + 80); // 设置弹窗的 Y 坐标
+			searchPopup.show(); // 显示弹窗
+			searchShowAnimation.play(); // 播放显示动画
+		}
+	}
     
     public Slider getVolumeSlider() {
     	return volumePopupController.getSlider();
